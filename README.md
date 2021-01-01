@@ -1,6 +1,6 @@
 # How-to-Generate-and-Store-Massive-data-in-Node.js.
 
-## Install Packages: ##
+# Install Packages: #
 
 node -v
 
